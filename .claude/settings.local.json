@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(ruby --version:*)",
+      "Bash(bundle --version:*)",
+      "Bash(brew --version:*)",
+      "Bash(brew install:*)",
+      "Bash(/opt/homebrew/opt/ruby/bin/ruby:*)",
+      "Bash(export PATH=\"/opt/homebrew/opt/ruby/bin:/opt/homebrew/lib/ruby/gems/4.0.0/bin:$PATH\")",
+      "Bash(gem install:*)",
+      "Bash(bundle install:*)",
+      "Bash(bundle exec jekyll serve:*)",
+      "Bash(export PATH:*)",
+      "Bash(sips:*)",
+      "Bash(gh auth status:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

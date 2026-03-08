@@ -9,56 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/Zehua_Zhang_CV.pdf){: .btn .btn--primary}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Arizona State University, 2024 -- Present
+  * Co-advised by Prof. Chitta Baral and Prof. Ruoyu Wang
+  * Expected completion: Fall 2028
+* **M.S. in AI Engineering -- Information Security**, Carnegie Mellon University, 2024
+  * GPA: 3.7 / 4.0
+  * Advised by Prof. Amir Barati Farimani and Prof. David Varodayan
+* **B.A. in Computer Science and Economics**, Boston College, 2022
+  * GPA: 3.65 / 4.0
+  * Dean's List (First Honor): 2020--2022
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant**, Arizona State University (Aug 2024 -- Present)
+  * Constructed benchmark dataset for evaluating agentic open-source software compilation methods
+  * Designed a multi-agent compilation method enhanced with LLM-assisted retrieval, surpassing the strongest rule-based baseline by ~50%
+  * Proposed a jailbreaking technique using layered novel ciphers, increasing success rates from 40% to 78%
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Graduate Research Assistant**, Carnegie Mellon University (May 2023 -- May 2024)
+  * Proposed a new masking pretraining method for Force and Energy-Centric Graph Neural Networks
+  * Pretrained and finetuned GNNs on water molecule and organic molecule datasets, reducing RMSE by up to 38%
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Research Assistant**, Peking University (May 2021 -- June 2021)
+  * Evaluated blockchain protocols and smart contract codes
+  * Constructed test nets to reproduce attacks targeting smart contracts
+  * Analyzed the effect of regulations on cryptocurrency transactions using on-chain data
+
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Algorithm Development Intern**, Sohu Inc., Beijing (June 2021 -- Sept 2021)
+  * Designed and deployed a real-time feed deduplication system for social media
+  * Leveraged Kafka, Spark, simhash, and Bloom filters for large-scale data streaming
+  * Reduced repetitive text exposure by ~90% and duplicate video content by ~30%
+
+Technical Skills
+======
+* **Programming:** Python, C, Scala, Java, R, Swift, JavaScript
+* **ML/DL Frameworks:** PyTorch, TensorFlow, PyG, Verl, vLLM
+* **Data & Distributed Systems:** Spark, Kafka, Kubernetes
+* **Databases:** MySQL, MongoDB, Hive, HBase
+* **Cloud:** GCP, AWS
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
