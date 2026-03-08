@@ -11,7 +11,7 @@ redirect_from:
 
 <h2>Teaching</h2>
 {% for post in site.teaching reversed %}
-  {% if post.type == "Teaching Assistant" %}
+  {% if post.type == "Teaching Assistant" or post.type == "Guest Lecturer" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
