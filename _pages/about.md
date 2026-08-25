@@ -22,6 +22,9 @@ My general research interests lie in **Natural Language Processing** and its app
 
 ## News
 
-- Our paper *Build-Bench* was accepted at the **NeurIPS 2025 Deep Learning for Code** workshop and is under review at **ICLR 2026**.
-- Our paper on *jailbreaking LLMs via novel complex ciphers* was accepted at the **NeurIPS 2025 Reliable ML from Unreliable Data** workshop.
-- Our paper *Masked Pretraining Strategy for Neural Potentials* was published in **AIP Advances** (Sep 2024).
+- **August 2026:** Our paper *BuildBench* was accepted at **TMLR**.
+- **August 2026:** Our paper *CAST: Critique-Aware Supervision for Training Reliable Long-Horizon Tool-Calling Agents* was accepted at **EMNLP 2026**.
+- **May–August 2026:** I completed a summer internship at **Samsung Research America** as a Security Research Intern.
+- **November 2025:** Our paper *BuildBench* was accepted at the **NeurIPS 2025 Deep Learning for Code** workshop.
+- **November 2025:** Our paper on *jailbreaking LLMs via novel complex ciphers* was accepted at the **NeurIPS 2025 Reliable ML from Unreliable Data** workshop.
+- **September 2024:** Our paper *Masked Pretraining Strategy for Neural Potentials* was published in **AIP Advances**.
