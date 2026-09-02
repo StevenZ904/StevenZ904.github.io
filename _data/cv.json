@@ -1,152 +1,194 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zehua Zhang",
+    "label": "PhD Student in Computer Science",
+    "email": "zzhan645@asu.edu",
+    "phone": "617-893-9077",
+    "website": "https://stevenz904.github.io",
+    "summary": "PhD student at Arizona State University researching natural language processing, LLM post-training, multi-agent systems, and AI for software security.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "85281",
+      "city": "Tempe",
       "countryCode": "US",
-      "region": ""
+      "region": "AZ"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Zehua Zhang",
+        "url": "https://scholar.google.com/citations?user=oDz_NykAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "StevenZ904",
+        "url": "https://github.com/StevenZ904"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sz904",
+        "url": "https://www.linkedin.com/in/sz904/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Samsung Research America",
+      "position": "Research Intern",
+      "startDate": "May 2026",
+      "endDate": "Aug 2026",
+      "summary": "Researched indirect prompt injection vulnerabilities in LLM-based agentic systems.",
+      "highlights": [
+        "Developed a gym-like environment for scalable training-data sampling and generation.",
+        "Trained LLMs using supervised fine-tuning and reinforcement learning methods, including DPO and GRPO.",
+        "Achieved state-of-the-art performance on AgentDojo and AgentDyn."
+      ]
+    },
+    {
+      "company": "Sohu Inc.",
+      "position": "Algorithm Development Intern",
+      "startDate": "June 2021",
+      "endDate": "Sept 2021",
+      "summary": "Designed and deployed a real-time feed deduplication system for a social media application.",
+      "highlights": [
+        "Used Kafka, Spark, simhash, and Bloom filters for large-scale multimedia deduplication.",
+        "Reduced repetitive text exposure by approximately 90% and duplicate video content by approximately 30%."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Arizona State University",
+      "area": "PhD in Computer Science",
+      "studyType": "Doctoral",
+      "startDate": "Aug 2024",
+      "endDate": "Expected Spring 2028",
+      "gpa": "3.67 / 4.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "Carnegie Mellon University",
+      "area": "M.S. in AI Engineering - Information Security",
+      "studyType": "Master's",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "May 2024",
+      "gpa": "3.7 / 4.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
+      "institution": "Boston College",
+      "area": "B.A. in Computer Science and Economics",
+      "studyType": "Bachelor's",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "May 2022",
+      "gpa": "3.65 / 4.0",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C", "Scala", "Java", "R", "Swift", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "name": "ML/DL Frameworks",
+      "keywords": ["PyTorch", "TensorFlow", "PyG", "Verl", "vLLM"]
+    },
+    {
+      "name": "Data and Distributed Systems",
+      "keywords": ["Spark", "Kafka", "Kubernetes"]
+    },
+    {
+      "name": "Cloud and Databases",
+      "keywords": ["MySQL", "MongoDB", "Hive", "HBase", "GCP", "AWS"]
+    },
+    {
+      "name": "Software Development",
+      "keywords": ["React", "iOS", "Docker", "MCP"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": ["Natural Language Processing", "LLM Post-Training", "Multi-Agent Systems", "AI for Software Security"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "CAST: Critique-Aware Supervision for Training Reliable Long-Horizon Tool-Calling Agents",
+      "publisher": "EMNLP 2026 Main Conference",
+      "releaseDate": "2026-08-01",
+      "website": "https://arxiv.org/abs/2608.30147v1",
+      "summary": "Co-first author."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Build-Bench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software",
+      "publisher": "Transactions on Machine Learning Research (TMLR)",
+      "releaseDate": "2026-08-01",
+      "website": "https://www.arxiv.org/abs/2509.25248",
+      "summary": "First author."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "When Competency in Reasoning Opens the Door to Vulnerability: Jailbreaking LLMs via Novel Complex Ciphers",
+      "publisher": "NeurIPS 2025 Reliable ML from Unreliable Data Workshop",
+      "releaseDate": "2025-11-01",
+      "website": "https://arxiv.org/abs/2402.10601",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Masked Pretraining Strategy for Neural Potentials",
+      "publisher": "AIP Advances",
+      "releaseDate": "2024-09-01",
+      "website": "https://doi.org/10.1063/5.0202647",
+      "summary": "First author."
+    },
+    {
+      "name": "Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A Case Study on Domain-Specific Queries in Private Knowledge-Bases",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2024-03-15",
+      "website": "https://arxiv.org/abs/2403.10446",
+      "summary": "Co-first author."
+    },
+    {
+      "name": "One paper submitted to NDSS 2027",
+      "publisher": "Under review",
+      "releaseDate": "2026-09-01",
+      "website": "",
+      "summary": ""
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Information Assurance",
+      "institution": "Arizona State University",
+      "date": "2026-08-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Grading, office hours, and student support."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Natural Language Processing (CSE 576)",
+      "institution": "Arizona State University",
+      "date": "2024-09-01",
+      "role": "Guest Lecturer",
+      "description": "Delivered a lecture about language model-based agents."
+    },
+    {
+      "course": "Randomness and Computation (CSCI2244)",
+      "institution": "Boston College",
+      "date": "2021-09-01",
+      "role": "Undergraduate Teaching Assistant",
+      "description": "Grading, office hours, and student support."
+    },
+    {
+      "course": "Web Application Development (CSCI2254)",
+      "institution": "Boston College",
+      "date": "2022-01-01",
+      "role": "Undergraduate Teaching Assistant",
+      "description": "Grading, office hours, and student support."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

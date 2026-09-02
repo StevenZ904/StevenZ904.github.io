@@ -15,7 +15,7 @@ Education
 ======
 * **Ph.D. in Computer Science**, Arizona State University, 2024 -- Present
   * Co-advised by Prof. Chitta Baral and Prof. Ruoyu Wang
-  * Expected completion: Fall 2028
+  * Expected completion: Spring 2028
 * **M.S. in AI Engineering -- Information Security**, Carnegie Mellon University, 2024
   * GPA: 3.7 / 4.0
   * Advised by Prof. Amir Barati Farimani and Prof. David Varodayan
@@ -39,8 +39,19 @@ Research Experience
   * Constructed test nets to reproduce attacks targeting smart contracts
   * Analyzed the effect of regulations on cryptocurrency transactions using on-chain data
 
+Research Interests
+======
+* **General:** Natural Language Processing and its applications in security and software engineering
+* **Current Focus:** LLM post-training, multi-agent systems, and AI for software security
+
 Professional Experience
 ======
+* **Research Intern**, Samsung Research America, Mountain View (May 2026 -- Aug 2026)
+  * Researched indirect prompt injection vulnerabilities in LLM-based agentic systems
+  * Developed a gym-like environment for scalable training-data sampling and generation
+  * Trained LLMs using supervised fine-tuning and reinforcement learning methods, including DPO and GRPO
+  * Achieved state-of-the-art performance on AgentDojo and AgentDyn
+
 * **Algorithm Development Intern**, Sohu Inc., Beijing (June 2021 -- Sept 2021)
   * Designed and deployed a real-time feed deduplication system for social media
   * Leveraged Kafka, Spark, simhash, and Bloom filters for large-scale data streaming
@@ -48,20 +59,22 @@ Professional Experience
 
 Technical Skills
 ======
-* **Programming:** Python, C, Scala, Java, R, Swift, JavaScript
+* **Programming:** Python, C, Scala, Java, R, Swift, JavaScript, HTML, CSS
 * **ML/DL Frameworks:** PyTorch, TensorFlow, PyG, Verl, vLLM
 * **Data & Distributed Systems:** Spark, Kafka, Kubernetes
-* **Databases:** MySQL, MongoDB, Hive, HBase
-* **Cloud:** GCP, AWS
+* **Cloud & Databases:** MySQL, MongoDB, Hive, HBase; GCP, AWS
+* **Software Development:** React, iOS, Docker, MCP
 
 Publications
 ======
+One paper submitted to NDSS 2027.
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.teaching reversed %}{% if post.type == "Teaching Assistant" or post.type == "Guest Lecturer" %}
+    {% include archive-single-cv.html %}{% endif %}
   {% endfor %}</ul>
