@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Zehua Zhang",
-    "label": "PhD Student in Computer Science",
+    "label": "Third-Year PhD Student in Computer Science",
     "email": "zzhan645@asu.edu",
     "phone": "617-893-9077",
     "website": "https://stevenz904.github.io",
-    "summary": "PhD student at Arizona State University researching natural language processing, LLM post-training, multi-agent systems, and AI for software security.",
+    "summary": "Third-year PhD student at Arizona State University researching natural language processing, LLM post-training, multi-agent systems, and AI for software security.",
     "location": {
       "address": "",
       "postalCode": "85281",

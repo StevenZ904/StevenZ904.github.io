@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at [Arizona State University](https://www.asu.edu/), co-advised by [Prof. Chitta Baral](https://www.public.asu.edu/~cbaral/) and [Prof. Ruoyu Wang](https://ruoyuwang.me/). I expect to complete my PhD in Spring 2028.
+I am a third-year PhD student in Computer Science at [Arizona State University](https://www.asu.edu/), co-advised by [Prof. Chitta Baral](https://www.public.asu.edu/~cbaral/) and [Prof. Ruoyu Wang](https://ruoyuwang.me/). I expect to complete my PhD in Spring 2028.
 
 Previously, I received my M.S. in AI Engineering (Information Security) from [Carnegie Mellon University](https://www.cmu.edu/) in 2024, and my B.A. in Computer Science and Economics from [Boston College](https://www.bc.edu/) in 2022.
 

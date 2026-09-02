@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Teaching</h2>
+<h2>Internship</h2>
 {% for post in site.teaching reversed %}
-  {% if post.type == "Teaching Assistant" or post.type == "Guest Lecturer" %}
+  {% if post.type == "Internship" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Internship</h2>
+<h2>Teaching</h2>
 {% for post in site.teaching reversed %}
-  {% if post.type == "Internship" %}
+  {% if post.type == "Teaching Assistant" or post.type == "Guest Lecturer" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
