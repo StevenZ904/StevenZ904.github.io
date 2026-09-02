@@ -16,6 +16,7 @@ Previously, I received my M.S. in AI Engineering (Information Security) from [Ca
 My general research interests lie in **Natural Language Processing** and its applications in security and software engineering. My recent work focuses on:
 
 - **LLM Post-Training** -- improving model capabilities and safety through supervised fine-tuning and reinforcement learning
+- **AI Security** -- securing LLMs and agentic systems against jailbreaks, prompt injection, and adversarial threats
 - **Multi-Agent Systems** -- building and evaluating collaborative agentic workflows
 - **AI for Software Security** -- applying AI methods to software security and vulnerability analysis
 
