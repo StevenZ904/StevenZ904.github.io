@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, Arizona State University, 2024 -- Present
+  * GPA: 3.67 / 4.0
   * Co-advised by Prof. Chitta Baral and Prof. Ruoyu Wang
   * Expected completion: Spring 2028
 * **M.S. in AI Engineering -- Information Security**, Carnegie Mellon University, 2024
@@ -26,9 +27,9 @@ Education
 Research Experience
 ======
 * **Graduate Research Assistant**, Arizona State University (Aug 2024 -- Present)
-  * Constructed benchmark dataset for evaluating agentic open-source software compilation methods
-  * Designed a multi-agent compilation method enhanced with LLM-assisted retrieval, surpassing the strongest rule-based baseline by ~50%
-  * Proposed a jailbreaking technique using layered novel ciphers, increasing success rates from 40% to 78%
+  * Conduct research at the intersection of LLM agents, software security, and AI security, with a focus on building reliable and secure agentic systems
+  * Develop benchmarking, reasoning, and post-training methods for complex agentic tasks, including open-source software compilation and long-horizon tool use
+  * Investigate jailbreaks and prompt injection in LLM-based systems, developing data-flow-centric vulnerability analysis methods and post-training defenses
 
 * **Graduate Research Assistant**, Carnegie Mellon University (May 2023 -- May 2024)
   * Proposed a new masking pretraining method for Force and Energy-Centric Graph Neural Networks
@@ -47,7 +48,7 @@ Research Interests
 Professional Experience
 ======
 * **Research Intern**, Samsung Research America, Mountain View (May 2026 -- Aug 2026)
-  * Researched indirect prompt injection vulnerabilities in LLM-based agentic systems
+  * Conducted research on indirect prompt injection vulnerabilities in LLM-based agentic systems
   * Developed a gym-like environment for scalable training-data sampling and generation
   * Trained LLMs using supervised fine-tuning and reinforcement learning methods, including DPO and GRPO
   * Achieved state-of-the-art performance on AgentDojo and AgentDyn
@@ -67,7 +68,7 @@ Technical Skills
 
 Publications
 ======
-One paper submitted to NDSS 2027.
+One first-authored paper submitted to NDSS 2027.
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

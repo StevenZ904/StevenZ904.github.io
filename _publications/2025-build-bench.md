@@ -1,11 +1,11 @@
 ---
 title: "Build-Bench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-build-bench
 excerpt: 'We construct a benchmark dataset for evaluating agentic open-source software compilation methods and propose a multi-agent compilation method enhanced with LLM-assisted retrieval.'
 date: 2026-08-01
 venue: 'Transactions on Machine Learning Research (TMLR)'
-paperurl: 'https://www.arxiv.org/abs/2509.25248'
+paperurl: 'https://openreview.net/forum?id=BxJnz9EqO5'
 citation: '<b>Z. Zhang</b>, A. Bajaj, D. Handa, et al. &quot;Build-Bench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software.&quot; <i>Transactions on Machine Learning Research (TMLR)</i>.'
 ---

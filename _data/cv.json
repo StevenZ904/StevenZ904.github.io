@@ -37,7 +37,7 @@
       "position": "Research Intern",
       "startDate": "May 2026",
       "endDate": "Aug 2026",
-      "summary": "Researched indirect prompt injection vulnerabilities in LLM-based agentic systems.",
+      "summary": "Conducted research on indirect prompt injection vulnerabilities in LLM-based agentic systems.",
       "highlights": [
         "Developed a gym-like environment for scalable training-data sampling and generation.",
         "Trained LLMs using supervised fine-tuning and reinforcement learning methods, including DPO and GRPO.",
@@ -127,7 +127,7 @@
       "name": "Build-Bench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software",
       "publisher": "Transactions on Machine Learning Research (TMLR)",
       "releaseDate": "2026-08-01",
-      "website": "https://www.arxiv.org/abs/2509.25248",
+      "website": "https://openreview.net/forum?id=BxJnz9EqO5",
       "summary": "First author."
     },
     {
@@ -152,17 +152,17 @@
       "summary": "Co-first author."
     },
     {
-      "name": "One paper submitted to NDSS 2027",
+      "name": "One first-authored paper submitted to NDSS 2027",
       "publisher": "Under review",
-      "releaseDate": "2026-09-01",
+      "releaseDate": "2026-08-01",
       "website": "",
-      "summary": ""
+      "summary": "First author."
     }
   ],
   "presentations": [],
   "teaching": [
     {
-      "course": "Information Assurance",
+      "course": "Information Assurance (CSE 365)",
       "institution": "Arizona State University",
       "date": "2026-08-01",
       "role": "Graduate Teaching Assistant",
